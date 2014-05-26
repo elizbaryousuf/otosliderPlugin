@@ -1,0 +1,4 @@
+otosliderPlugin
+===============
+
+Otomatik Dönen Slider
